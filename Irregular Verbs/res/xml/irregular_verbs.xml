@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<verbs >
+    <record infinitive = "be" past_simple = "was" past_participle = "been" translation = "быть"/>
+    <record infinitive = "become" past_simple = "became" past_participle = "become" translation = "стать, сделаться"/>
+    <record infinitive = "begin" past_simple = "began" past_participle = "begun" translation = "начинать"/>
+    <record infinitive = "bite" past_simple = "bit" past_participle = "bitten" translation = "кусать"/>
+    <record infinitive = "blow" past_simple = "blew" past_participle = "blown" translation = "дуть"/>
+    <record infinitive = "break" past_simple = "broke" past_participle = "broken" translation = "ломать"/>
+    <record infinitive = "bring" past_simple = "brought" past_participle = "brought" translation = "приносить"/>
+    <record infinitive = "buy" past_simple = "bought" past_participle = "bought" translation = "покупать"/>
+    <record infinitive = "catch" past_simple = "caught" past_participle = "caught" translation = "ловить"/>
+    <record infinitive = "choose" past_simple = "chose" past_participle = "chosen" translation = "выбирать"/>
+    <record infinitive = "come" past_simple = "came" past_participle = "come" translation = "приходить"/>
+    <record infinitive = "cost" past_simple = "cost" past_participle = "cost" translation = "стоить"/>
+    <record infinitive = "cut" past_simple = "cut" past_participle = "cut" translation = "резать"/>
+    <record infinitive = "do" past_simple = "did" past_participle = "done" translation = "делать"/>
+    <record infinitive = "draw" past_simple = "drew" past_participle = "drawn" translation = "рисовать"/>
+    <record infinitive = "drink" past_simple = "drank" past_participle = "drunk" translation = "пить"/>
+    <record infinitive = "drive" past_simple = "drove" past_participle = "driven" translation = "вести"/>
+    <record infinitive = "eat" past_simple = "ate" past_participle = "eaten" translation = "есть"/>
+    <record infinitive = "fall" past_simple = "fell" past_participle = "fallen" translation = "падать"/>
+    <record infinitive = "feel" past_simple = "felt" past_participle = "felt" translation = "чувствовать"/>
+    <record infinitive = "fight" past_simple = "fought" past_participle = "fought" translation = "драться"/>
+    <record infinitive = "find" past_simple = "found" past_participle = "found" translation = "находить"/>
+    <record infinitive = "fly" past_simple = "flew" past_participle = "flown" translation = "летать"/>
+    <record infinitive = "forget" past_simple = "forgot" past_participle = "forgotten" translation = "забывать"/>
+    <record infinitive = "get" past_simple = "got" past_participle = "got" translation = "становиться, получать"/>
+    <record infinitive = "give" past_simple = "gave" past_participle = "given" translation = "давать"/>
+    <record infinitive = "go" past_simple = "went" past_participle = "gone" translation = "идти"/>
+    <record infinitive = "grow" past_simple = "grew" past_participle = "grown" translation = "расти"/>
+    <record infinitive = "hang" past_simple = "hung" past_participle = "hung" translation = "вешать, висеть"/>
+    <record infinitive = "have" past_simple = "had" past_participle = "had" translation = "иметь"/>
+    <record infinitive = "hear" past_simple = "heard" past_participle = "heard" translation = "слышать"/>
+    <record infinitive = "hide" past_simple = "hid" past_participle = "hidden" translation = "прятать"/>
+    <record infinitive = "hit" past_simple = "hit" past_participle = "hit" translation = "ударять"/>
+    <record infinitive = "hold" past_simple = "held" past_participle = "held" translation = "держать"/>
+    <record infinitive = "hurt" past_simple = "hurt" past_participle = "hurt" translation = "ранить"/>
+    <record infinitive = "keep" past_simple = "kept" past_participle = "kept" translation = "хранить"/>
+    <record infinitive = "know" past_simple = "knew" past_participle = "known" translation = "знать"/>
+    <record infinitive = "lay" past_simple = "laid" past_participle = "laid" translation = "класть"/>
+    <record infinitive = "lead" past_simple = "led" past_participle = "led" translation = "вести"/>
+    <record infinitive = "learn" past_simple = "learnt, learned " past_participle = "learnt, learned " translation = "учить, изучать"/>
+    <record infinitive = "leave" past_simple = "left" past_participle = "left" translation = "оставлять"/>
+    <record infinitive = "lend" past_simple = "lent" past_participle = "lent" translation = "одалживать"/>
+    <record infinitive = "let" past_simple = "let" past_participle = "let" translation = "позволять"/>
+    <record infinitive = "lie" past_simple = "lay" past_participle = "lain" translation = "лежать"/>
+    <record infinitive = "lose" past_simple = "lost" past_participle = "lost" translation = "терять"/>
+    <record infinitive = "make" past_simple = "made" past_participle = "made" translation = "делать"/>
+    <record infinitive = "mean" past_simple = "meant" past_participle = "meant" translation = "значить"/>
+    <record infinitive = "meet" past_simple = "met" past_participle = "met" translation = "встречать"/>
+    <record infinitive = "pay" past_simple = "paid" past_participle = "paid" translation = "платить"/>
+    <record infinitive = "put" past_simple = "put" past_participle = "put" translation = "класть"/>
+    <record infinitive = "read" past_simple = "read" past_participle = "read" translation = "читать"/>
+    <record infinitive = "ring" past_simple = "rang" past_participle = "rung" translation = "звенеть"/>
+    <record infinitive = "run" past_simple = "ran" past_participle = "run" translation = "бежать"/>
+    <record infinitive = "say" past_simple = "said" past_participle = "said" translation = "сказать"/>
+    <record infinitive = "see" past_simple = "saw" past_participle = "seen" translation = "видеть"/>
+    <record infinitive = "sell" past_simple = "sold" past_participle = "sold" translation = "продавать"/>
+    <record infinitive = "send" past_simple = "sent" past_participle = "sent" translation = "посылать"/>
+    <record infinitive = "set" past_simple = "set" past_participle = "set" translation = "ставить, класть"/>     	
+    <record infinitive = "shine" past_simple = "shone" past_participle = "shone" translation = "сиять"/>
+    <record infinitive = "shoot" past_simple = "shot" past_participle = "shot" translation = "стрелять"/>
+    <record infinitive = "show" past_simple = "showed" past_participle = "shown" translation = "показывать"/> 	 	 	 	
+    <record infinitive = "shut" past_simple = "shut" past_participle = "shut" translation = "закрывать"/>
+    <record infinitive = "sing" past_simple = "sang" past_participle = "sung" translation = "петь"/>
+    <record infinitive = "sit" past_simple = "sat" past_participle = "sat" translation = "сидеть"/>	 	 	 	
+ 	<record infinitive = "sleep" past_simple = "slept" past_participle = "slept" translation = "спать"/> 	 	 	 	
+    <record infinitive = "speak" past_simple = "spoke" past_participle = "spoken" translation = "говорить"/>
+    <record infinitive = "spend" past_simple = "spent" past_participle = "spent" translation = "тратить, проводить (время)"/>
+    <record infinitive = "stand" past_simple = "stood" past_participle = "stood" translation = "стоять"/>	 	 	 	
+ 	<record infinitive = "steal" past_simple = "stole" past_participle = "stolen" translation = "красть"/> 	 	 	 	
+    <record infinitive = "sting" past_simple = "stung" past_participle = "stung" translation = "жалить"/>
+    <record infinitive = "swim" past_simple = "swam" past_participle = "swum" translation = "плавать"/>
+    <record infinitive = "take" past_simple = "took" past_participle = "taken" translation = "брать"/>	 	 	 	
+ 	<record infinitive = "teach" past_simple = "taught" past_participle = "taught" translation = "обучать"/> 	 	 	 	
+    <record infinitive = "tell" past_simple = "told" past_participle = "told" translation = "сказать"/>
+    <record infinitive = "think" past_simple = "thought" past_participle = "thought" translation = "думать"/>
+    <record infinitive = "throw" past_simple = "threw" past_participle = "thrown" translation = "бросать"/>
+    <record infinitive = "wake" past_simple = "woke" past_participle = "woken" translation = "будить, просыпаться "/>
+    <record infinitive = "wear" past_simple = "wore" past_participle = "worn" translation = "носить"/>
+    <record infinitive = "win" past_simple = "won" past_participle = "won" translation = "побеждать"/>
+    <record infinitive = "write" past_simple = "wrote" past_participle = "written" translation = "писать"/>	 	 	 	
+ 	
+</verbs>

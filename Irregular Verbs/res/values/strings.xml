@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">Irregular Verbs</string>    
+    <string name="action_settings">Settings</string>
+    <string name="exam">Exam</string>
+    <string name="list">List</string>
+    <string name="study">Study</string>    
+    <string name="infinitive" translatable="false">Infinitive</string>
+    <string name="pastSsimple" translatable="false">PastSsimple</string>
+    <string name="pastParticiple" translatable="false">PastParticiple</string>
+    <string name="translation" translatable="false">Translation</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="answer">type your answer</string>
+    <string name="enter_past_simple">enter the word in PastSimple form</string>
+    <string name="enter_past_participle">enter the word in PastParticiple form</string>
+    <string name="true_answer">Correct</string>
+    <string name="false_answer">You made oshybki! Correct answer:</string>
+    <string name="congratulation">Congratulations, you passed the exam</string>
+    <string name="repeat">Do you want to repeat</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialig_message">Do you want to pass the exam ?</string>
+    <string name="dialog_title">Congratulations! You passed the exam</string>
+
+</resources>

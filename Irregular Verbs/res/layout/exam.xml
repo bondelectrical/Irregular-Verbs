@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/CustomListView">
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtPrBar"
+        android:gravity="center_horizontal"        
+        android:layout_marginTop="15dp"/>
+
+    <ProgressBar
+        android:id="@+id/prBarExam"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:indeterminate="false"
+        android:progress="0"
+        android:max="1000"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtExamInfinitive"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/infinitive"
+        style="@style/CustomTextViewBold"
+        android:layout_marginBottom="10dp"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtExamTranslation"
+        android:gravity="center_horizontal"
+        android:text="@string/translation"
+        style="@style/CustomTextView"
+        android:layout_marginBottom="10dp"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtFormVerbs"        
+        android:gravity="center_horizontal"
+        android:text="@string/enter_past_simple"
+        android:layout_margin="5dp"
+        android:textSize="16sp"/>
+    
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal">
+        <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:id="@+id/edTxtInputRespons"
+            android:inputType="text"
+            android:hint="@string/answer"/>
+        <Button 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ok"
+            android:id="@+id/btnOk"
+            android:layout_gravity="right"  
+            android:background="@drawable/rounded_button_gray" />
+    </LinearLayout>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtAnsver"      
+        android:gravity="center_horizontal"
+        android:textSize="16sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtCorrectAnsver"        
+        style="@style/CustomTextView"
+        android:gravity="center_horizontal"
+        android:textSize="16sp"/>
+
+</LinearLayout>

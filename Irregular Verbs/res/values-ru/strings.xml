@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Неправильные глаголы</string>   
+    <string name="action_settings">Settings</string>
+    <string name="exam">Экзамен</string>
+    <string name="list">Список</string>
+    <string name="study">Изучить</string>
+    <string name="true_answer">Верно</string>
+    <string name="false_answer">Ты допустил ошыбку! Правильный ответ:</string>
+    <string name="congratulation">Поздравляем вы сдали экзамен</string>
+    <string name="repeat">Хотите повторить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="dialig_message">Хотите сдать экзамен еще?</string>
+    <string name="dialog_title">Поздравляем! Вы сдали экзамен</string>
+    <string name="answer">введите ответ</string>
+    <string name="enter_past_simple">введите слово в PastSimple форме</string>
+    <string name="enter_past_participle">введите слово в PastParticiple форме</string>
+      
+</resources>
